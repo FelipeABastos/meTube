@@ -14,10 +14,10 @@ UIKit
 ## This class uses:
 
 ```
-WebKit
-UIActivityViewController
-UITextFieldDelegate
-WKNavigationDelegate
+TableView
+Alamofire
+Kingfisher
+UIActivityIndicator
 ```
 
 ## Authors
