@@ -26,5 +26,5 @@ UIActivityIndicator
 
 ## App working
 
-I'll implement GIFs soon :)
+<img align="left" width="270" height="540" src="https://github.com/FelipeABastos/meTube/blob/master/MeTube%20Gif.gif"> 
 
