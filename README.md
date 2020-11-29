@@ -26,5 +26,5 @@ UIActivityIndicator
 
 ## App working
 
-<img align="left" width="270" height="540" src="https://github.com/FelipeABastos/meTube/blob/master/MeTube%20Gif.gif"> 
+<img align="left" width="270" height="540" src="https://github.com/FelipeABastos/meTube/blob/master/ezgif-5-fe5dc563df93.gif"> 
 
